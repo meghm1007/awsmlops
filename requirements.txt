@@ -1,0 +1,4 @@
+Flask
+numpy==1.26.4
+scikit-learn  
+# pip install -r requirements.txt
